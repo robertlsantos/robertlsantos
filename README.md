@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robertlsantos
-- 👀 I’m interested in Doftware Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me webdevme@outlook.com
 
